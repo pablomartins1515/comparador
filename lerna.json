@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "publish": {
+      "push": false
+    }
+  },
+  "npmClient": "yarn",
+  "useWorkspaces": false
+}
